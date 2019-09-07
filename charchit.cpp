@@ -5,6 +5,7 @@ using namespace std;
 int main()
 {
     int a=10;
+    int b=10;
     cout<<"Using Git & Github";
     cout<<"Basics of Git and Github";
     cout<<a;
